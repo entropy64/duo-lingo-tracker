@@ -1,3 +1,4 @@
+Delorean==0.6.0
 duolingo-api==0.3
 plotly==2.0.1
 numpy==1.13.1
